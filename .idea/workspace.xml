@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2e5d1b6a-4fb6-4de6-8948-a9581b6cac6e" name="Changes" comment="new updates">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ticketing/EventTicketingSystem/Model/Payment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ticketing/EventTicketingSystem/common/PaymentPlatform.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ticketing/EventTicketingSystem/controller/PaymentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ticketing/EventTicketingSystem/repository/PaymentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ticketing/EventTicketingSystem/service/PaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ticketing/EventTicketingSystem/serviceimplementation/PaymentServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ticketing/EventTicketingSystem/controller/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ticketing/EventTicketingSystem/controller/AuthController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ticketing/EventTicketingSystem/service/ArtistService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ticketing/EventTicketingSystem/service/ArtistService.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/RUMBIDZAIDUMBU/online-event.git&quot;,
+    &quot;accountId&quot;: &quot;85f7e99d-c8de-4bf8-93dc-75e6828f6062&quot;
+  }
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2refcxVSiJtmuq7mWeBm5Yaspqx" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.EventTicketingSystemApplication.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.EventTicketingSystemApplicationTests.executor&quot;: &quot;Run&quot;,
+    &quot;Notification.DisplayName-DoNotAsk-Database detector&quot;: &quot;Database detector&quot;,
+    &quot;Notification.DoNotAsk-Database detector&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;Spring Boot.EventTicketingSystemApplication (1).executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;/Users/uncommonstudent/Downloads/EventTicketingSystem/src/main/java&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/uncommonstudent/Downloads/EventTicketingSystem&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mongo&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.ticketing.EventTicketingSystem.Model" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.ticketing.EventTicketingSystem.service" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="EventTicketingSystemApplication" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.ticketing.EventTicketingSystem.EventTicketingSystemApplication" />
+      <module name="EventTicketingSystem" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="StructureViewState">
+    <option name="selectedTab" value="Logical" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e5d1b6a-4fb6-4de6-8948-a9581b6cac6e" name="Changes" comment="" />
+      <created>1736924545040</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1736924545040</updated>
+      <workItem from="1736924546440" duration="12569000" />
+      <workItem from="1737012144794" duration="987000" />
+      <workItem from="1737013604891" duration="10153000" />
+      <workItem from="1737099790509" duration="2711000" />
+      <workItem from="1737104868909" duration="12983000" />
+      <workItem from="1737132600336" duration="1704000" />
+      <workItem from="1737134486461" duration="43000" />
+      <workItem from="1737142525596" duration="2607000" />
+      <workItem from="1737195591311" duration="3000" />
+      <workItem from="1737195634689" duration="246000" />
+      <workItem from="1737195939731" duration="824000" />
+      <workItem from="1737197663788" duration="6996000" />
+      <workItem from="1737206700226" duration="15068000" />
+      <workItem from="1737441190810" duration="25052000" />
+      <workItem from="1737527737848" duration="64446000" />
+      <workItem from="1672534447891" duration="17388000" />
+      <workItem from="1738135061001" duration="3000" />
+      <workItem from="1738135118062" duration="37668000" />
+      <workItem from="1738674413743" duration="10000" />
+      <workItem from="1738674456166" duration="25000" />
+      <workItem from="1738674513531" duration="23000" />
+      <workItem from="1738674559477" duration="200000" />
+      <workItem from="1738680158088" duration="28000" />
+      <workItem from="1738680214535" duration="286000" />
+      <workItem from="1738680694111" duration="17000" />
+      <workItem from="1738680734856" duration="190000" />
+      <workItem from="1738680953342" duration="25000" />
+      <workItem from="1738681002620" duration="65000" />
+      <workItem from="1738681115974" duration="150000" />
+      <workItem from="1738681315015" duration="464000" />
+      <workItem from="1738682480770" duration="255000" />
+      <workItem from="1738682964954" duration="27000" />
+      <workItem from="1738683028538" duration="178000" />
+      <workItem from="1738772627808" duration="1135000" />
+      <workItem from="1739516366895" duration="251000" />
+      <workItem from="1739790339271" duration="50000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="new updates" />
+  </component>
+</project>
